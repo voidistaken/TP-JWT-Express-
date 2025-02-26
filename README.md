@@ -71,6 +71,8 @@ Authorization: Bearer votreToken
 Si le SECRET_KEY n'est pas défini dans .env, une clé par défaut est utilisée (⚠️ Ne pas utiliser en production !).
 Test Creation User in Databse utilisant PostMan :
 ![image](https://github.com/user-attachments/assets/dc94f6bd-7ede-424f-bede-72ec501fa415)
+
 Apres en login avec User qui on a Creér
+
 ![image](https://github.com/user-attachments/assets/8b4ed623-4f1e-4568-b8b2-e8eec7de433a)
 
